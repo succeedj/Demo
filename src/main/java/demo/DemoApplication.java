@@ -3,6 +3,9 @@ package demo;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/*
+ * A comment
+ */
 @SpringBootApplication
 public class DemoApplication {
 
